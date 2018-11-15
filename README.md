@@ -8,3 +8,7 @@ Priante, A. (forthcoming) Tweet your #Mo and save a Bro: Micro-mobilization dyna
 4.	extract_URLs_from_tweets.ipynb: This is the code used for the extract the URLs from the text of the tweets (Chapter 6). Data used: Twitter data. Programming language used: Python.
 
 The codebook and code used to develop the social identity classifiers (Chapter 4) are available in a dedicated GitHub repository: https://github.com/annapriante/identityclassifier
+
+For questions, please contact Anna Priante (a.priante@utwente.nl)
+
+Last updated: November, 15th 2018
